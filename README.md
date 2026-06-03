@@ -97,16 +97,6 @@ const abubackar = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=abubackar-siddiq-s&theme=tokyonight&hide_border=true&background=04040a&ring=7850ff&fire=ff4f8b&currStreakLabel=00e5c8&sideLabels=7a7a9a&currStreakNum=f0f0f8&sideNums=f0f0f8&dates=7a7a9a" />
-
-</div>
-
----
-
 ## 🏆 Achievements & Certifications
 
 <div align="center">
