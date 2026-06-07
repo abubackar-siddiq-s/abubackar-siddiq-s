@@ -122,7 +122,7 @@ const abubackar = {
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/xdT7Kk03zk?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&bg=04040a)](https://leetcode.com/u/xdT7Kk03zk/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/abubackar_?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&bg=04040a)](https://leetcode.com/u/abubackar_/)
 
 </div>
 
