@@ -93,7 +93,7 @@ const abubackar = {
 
 </div>
 
-> 🔗 Explore all projects → **[abubackar.infinityfreeapp.com](https://abubackar.infinityfreeapp.com)**
+> 🔗 Explore all projects → **[abubackar.infinityfreeapp.com](https://abubackar.infinityfreeapp.com)** (or) **[abubackar.netlify.app](https://abubackar.netlify.app)**
 
 ---
 
