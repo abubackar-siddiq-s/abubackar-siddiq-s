@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=7850FF&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps;MERN+Stack+%7C+AI+%2F+ML+Integrations;200%2B+LeetCode+Problems+Solved;Always+learning+%E2%80%94+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=7850FF&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps;MERN+Stack+%7C+AI+%2F+ML+Integrations;250%2B+LeetCode+Problems+Solved;Always+learning+%E2%80%94+always+building" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -38,7 +38,7 @@ const abubackar = {
   stack:       ["React.js", "Node.js", "Express.js", "MongoDB"],
   languages:   ["JavaScript", "Python", "Java", "C"],
   interests:   ["Full Stack Dev", "AI/ML Integrations", "DSA", "UI/UX Design"],
-  leetcode:    "200+ problems solved · 100 Days Badge 🏆",
+  leetcode:    "250+ problems solved · 100 Days Badge 🏆",
   available:   true   // Open to internships & opportunities ✅
 };
 ```
@@ -105,7 +105,7 @@ const abubackar = {
 |----|-------------|
 | 🏆 | **LeetCode 100 Days Badge** — Consistent daily problem solving |
 | 🥈 | **LeetCode 50 Days Badge** |
-| 💡 | **200+ LeetCode Problems Solved** |
+| 💡 | **250+ LeetCode Problems Solved** |
 | ⚡ | **Mini Hackathon 2025** Participant |
 | 🤖 | **SAWIT.AI Learnathon** Certificate |
 | 📚 | **MERN Stack Development** Certified |
