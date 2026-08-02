@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-7850ff?style=for-the-badge&logo=vercel&logoColor=white)](https://abubackar.infinityfreeapp.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7850ff?style=for-the-badge&logo=vercel&logoColor=white)](https://abubackar.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abubackar-siddiq/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abubackar-siddiq-s)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/xdT7Kk03zk/)
@@ -93,7 +93,7 @@ const abubackar = {
 
 </div>
 
-> 🔗 Explore all projects → **[abubackar.infinityfreeapp.com](https://abubackar.infinityfreeapp.com)** (or) **[abubackar.netlify.app](https://abubackar.netlify.app)**
+> 🔗 Explore all projects → **[abubackar.vercel.app](https://abubackar.vercel.app)**
 
 ---
 
