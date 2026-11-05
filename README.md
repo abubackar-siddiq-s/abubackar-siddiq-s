@@ -1,124 +1,209 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7850ff&height=200&section=header&text=Abubackar%20Siddiq&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%C2%B7%20DSA%20%C2%B7%20AI%2FML&descAlignY=58&descColor=00e5c8&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7850ff,100:00e5c8&height=230&section=header&text=Abubackar%20Siddiq&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Generative%20AI%20%26%20Agentic%20AI%20Developer&descSize=20&descAlignY=60&descColor=ffffff&animation=fadeIn" alt="Abubackar Siddiq" />
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=7850FF&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+apps;MERN+Stack+%7C+AI+%2F+ML+Integrations;300%2B+LeetCode+Problems+Solved;Always+learning+%E2%80%94+always+building" alt="Typing SVG" />
+<a href="https://abubackar.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=1000&color=7850FF&center=true&vCenter=true&width=720&height=40&lines=Building+scalable+MERN+products;Shipping+RAG+%26+AI+Agent+systems;Designing+reliable+backends+%E2%80%94+300%2B+LeetCode+solved;Engineering+meets+art+%E2%80%94+one+commit+at+a+time" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-7850ff?style=for-the-badge&logo=vercel&logoColor=white)](https://abubackar.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abubackar-siddiq/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abubackar-siddiq-s)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/xdT7Kk03zk/)
-[![Resume](https://img.shields.io/badge/Resume-00e5c8?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1er5daZv-h8JshJReTT2mbwNjHozPT1rp/view?usp=drive_link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abubackar.vercel.app-7850ff?style=for-the-badge&logo=vercel&logoColor=white)](https://abubackar.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abubackar--siddiq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abubackar-siddiq/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-abubackar__-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abubackar_/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abubackar.siddiq.stn@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-00e5c8?style=for-the-badge&logo=googledrive&logoColor=black)](https://drive.google.com/file/d/1er5daZv-h8JshJReTT2mbwNjHozPT1rp/view?usp=drive_link)
+
+![Profile Views](https://komarev.com/ghpvc/?username=abubackar-siddiq-s&style=for-the-badge&color=7850ff&label=PROFILE+VIEWS)
+![Status](https://img.shields.io/badge/Open%20to-Internships%20%26%20Opportunities-00e5c8?style=for-the-badge&labelColor=04040a)
+
+</div>
 
 <br/>
 
-<!-- Visitor Counter -->
-![Visitor Count](https://komarev.com/ghpvc/?username=abubackar-siddiq-s&style=for-the-badge&color=7850ff&label=PROFILE+VIEWS)
+## ✦ &nbsp;About
 
-</div>
+> *Great software is equal parts engineering and art. I obsess over both.*
 
----
+I'm a **Full Stack Developer** and **Computer Science & Design** student at **Kongu Engineering College**, building scalable software, intelligent applications and reliable backend systems.
 
-## 🧑‍💻 About Me
+My work spans **production MERN applications**, **LLM API integrations**, and **AI-powered systems built on RAG and AI Agents**, alongside open-source model fine-tuning with **Hugging Face**. With **300+ LeetCode problems solved**, I bring a strong Data Structures & Algorithms foundation to everything I ship.
 
-```javascript
+```ts
 const abubackar = {
-  name:        "Abubackar Siddiq S",
-  role:        "Full Stack Developer",
-  education:   "B.E Computer Science & Design @ Kongu Engineering College (2024–2028)",
-  cgpa:        8.54,
-  location:    "Erode, Tamil Nadu, India 🇮🇳",
-  stack:       ["React.js", "Node.js", "Express.js", "MongoDB"],
-  languages:   ["JavaScript", "Python", "Java", "C"],
-  interests:   ["Full Stack Dev", "AI/ML Integrations", "DSA", "UI/UX Design"],
-  leetcode:    "300+ problems solved · 100 Days Badge 🏆",
-  available:   true   // Open to internships & opportunities ✅
+  name:       "Abubackar Siddiq S",
+  role:       "Full Stack Developer | Generative AI & Agentic AI Developer",
+  education:  "B.E. Computer Science & Design — Kongu Engineering College (2024–2028)",
+  cgpa:       8.42,
+  location:   "Erode, Tamil Nadu, India",
+  focus:      ["MERN Stack", "RAG", "AI Agents", "LLM Integration", "Backend Systems"],
+  recognition:["Ideathon 2025 Runner-Up", "LeetCode 100-Day Badge"],
+  openTo:     ["Internships", "Collaborations", "Interesting problems"],
 };
 ```
 
-> *"Great software is equal parts engineering and art — I obsess over both."*
-
----
-
-## 🛠️ Tech Stack
+<br/>
 
 <div align="center">
 
-### ⚡ Full Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+| 🚀 **15+** | 🏆 **300+** | 🎓 **20+** | 🥇 **100 Days** |
+|:---:|:---:|:---:|:---:|
+| Projects Built | LeetCode Problems | Certificates | LeetCode Streak Badge |
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+</div>
 
-### 🧠 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<br/>
+
+## ✦ &nbsp;Tech Arsenal
+
+<div align="center">
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=java,py,c,js&theme=dark" alt="Languages" />
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,threejs,vite&theme=dark" alt="Frontend" />
+
+**Backend & Databases**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend" />
+
+**Tools & Platforms**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,figma&theme=dark" alt="Tools" />
+
+**AI / GenAI**<br/>
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-7850ff?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-00e5c8?style=for-the-badge&logoColor=black)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-7850ff?style=for-the-badge)
+![Fine-Tuning](https://img.shields.io/badge/Model_Fine--Tuning-00e5c8?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
----
+<br/>
 
-## 🚀 Featured Projects
+## ✦ &nbsp;Flagship Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 AnaMetrix
+**DORA Metrics Analytics Engine** · *Ideathon 2025 Runner-Up*
+
+Automates collection and calculation of all four DORA metrics (Deployment Frequency, Lead Time, Change Failure Rate, MTTR) from **GitHub, Jenkins and Prometheus**.
+
+- Unified event-normalization layer mapping heterogeneous tool payloads into one schema
+- MongoDB time-series storage powering real-time engineering dashboards via REST
+
+`Python` `MongoDB` `REST APIs` `Time-Series` `DevOps`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛍️ WallSticks
+**Production-grade MERN Storefront**
+
+Interactive **React Three Fiber** 3D hero, custom poster upload flow, cart, wishlist and a **UPI-based payment verification** pipeline.
+
+- JWT-secured admin dashboard, drag-and-drop carousel ordering, live revenue analytics
+- Route-based code-splitting and device-capability detection with a lightweight fallback hero
+
+`React` `Node.js` `Express` `MongoDB` `Three.js` `Tailwind`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 D2C — Design-to-Code
+**AI Design-to-Code Generator**
+
+Converts UI screenshots and mockups into production-ready React components using **Gemini** for visual layout understanding and code generation.
+
+- Automated colour-palette extraction and font detection into reusable design tokens
+- Modular REST APIs chaining image processing, prompt construction and code generation
+
+`React` `Node.js` `MongoDB` `Gemini API` `GenAI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏙️ Civic Issue Reporting & Resolution
+**Crowdsourced Civic Platform**
+
+Citizens report issues with **geotagged photos**; authorities track, prioritise and resolve in real time.
+
+- Automated routing engine assigning issues by category, location and priority
+- Role-based JWT auth, map-based admin analytics, response-time and department metrics
+
+`React` `Node.js` `Express` `MongoDB` `RESTful APIs`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ✦ &nbsp;More Projects
 
 <div align="center">
 
-| # | Project | Description | Stack | Live |
-|---|---------|-------------|-------|------|
-| 01 | **🤖 Artificial Fintelligence** | AI-powered financial advisor — tracks expenses, generates personalised savings & investment plans using Gemini AI | `Python` `Streamlit` `Gemini API` | [▶ View](https://fintelligent.streamlit.app) |
-| 02 | **📈 GenAI Stock Picker** | Analyses real-time stock trends with generative AI to deliver clear buy/sell signals | `Python` `Streamlit` `GenAI` | [▶ View](https://genaistockpicker.streamlit.app) |
-| 03 | **🏙️ Civic Issue Reporter** | Full-stack platform for citizens to report & track local civic issues with real-time status updates | `React` `Node.js` `MongoDB` | [▶ View](https://github.com/abubackar-siddiq-s/Civic_Issue_Reporting_System) |
-| 04 | **💰 Expense Tracker** | Finance app with expense categorisation and visual budget reports | `React` `Node.js` `MongoDB` | [▶ View](https://expense-tracker-fmms.onrender.com/) |
-| 05 | **🎨 Design to Code** | Converts Figma-style mockups into clean, deployable frontend code via MERN pipeline | `React` `Node.js` `MongoDB` | [▶ View](https://github.com/abubackar-siddiq-s/Design_to_Code) |
-| 06 | **🏠 Hostel Leave Management** | Streamlined leave request & warden approval platform with real-time tracking | `PHP` `MySQL` `HTML/CSS` | [▶ View](https://konguhostel.infinityfreeapp.com/) |
-| 07 | **💬 AI ChatBot** | Conversational AI delivering instant, context-aware responses | `Python` `Streamlit` `AI` | [▶ View](https://abuchatbot.streamlit.app) |
-| 08 | **🎮 Game Station** | Interactive number-challenge browser game in pure vanilla JS | `HTML` `CSS` `JavaScript` | [▶ View](https://gamestation.infinityfreeapp.com/) |
+| Project | What it does | Stack | Link |
+|:--|:--|:--|:--|
+| **🏢 Albedrix Systems** | Production company website for an Edge AI, IoT and product-engineering studio | `React` `Vite` `Tailwind` | [Portfolio ↗](https://abubackar.vercel.app) |
+| **⚙️ ZenithOS** | Agency operations and client portal: projects, approvals, invoicing, payment verification | `TypeScript` `React` `Node.js` | [Portfolio ↗](https://abubackar.vercel.app) |
+| **🤖 Artificial Fintelligence** | Personal finance dashboard and AI advisor on Gemini 1.5 Flash | `Python` `Streamlit` `Gemini` | [Live ↗](https://fintelligent.streamlit.app) |
+| **📈 FINTELLIGENCE** | Stock intelligence terminal with live market data and LLM-generated insights | `Python` `Streamlit` `Gemini` | [Portfolio ↗](https://abubackar.vercel.app) |
+| **📊 GenAI Stock Picker** | Real-time trend analysis with generative-AI buy/sell signals | `Python` `Streamlit` `GenAI` | [Live ↗](https://genaistockpicker.streamlit.app) |
+| **💰 Expense Tracker** | Spending categorisation, custom categories and visual budget reports | `React` `Node.js` `MongoDB` | [Live ↗](https://expense-tracker-fmms.onrender.com/) |
+| **🏠 Hostel Leave Management** | Leave applications and warden approvals for Kongu Engineering College · *Mini Hackathon 2025* | `PHP` `MySQL` `HTML/CSS` | [Live ↗](https://konguhostel.infinityfreeapp.com/) |
+| **💬 AI ChatBot** | Context-aware conversational assistant | `Python` `Streamlit` `Gemini` | [Live ↗](https://abuchatbot.streamlit.app) |
+| **🎮 Game Station** | Browser number-challenge game in pure vanilla JS | `HTML` `CSS` `JavaScript` | [Live ↗](https://gamestation.infinityfreeapp.com/) |
+
+**[→ Explore all 15+ projects on my portfolio](https://abubackar.vercel.app)**
 
 </div>
 
-> 🔗 Explore all projects → **[abubackar.vercel.app](https://abubackar.vercel.app)**
+<br/>
 
----
-
-## 🏆 Achievements & Certifications
+## ✦ &nbsp;Achievements & Certifications
 
 <div align="center">
 
-| 🥇 | Achievement |
-|----|-------------|
-| 🏆 | **LeetCode 100 Days Badge** — Consistent daily problem solving |
-| 🥈 | **LeetCode 50 Days Badge** |
-| 💡 | **300+ LeetCode Problems Solved** |
-| ⚡ | **Mini Hackathon 2025** Participant |
-| 🤖 | **SAWIT.AI Learnathon** Certificate |
-| 📚 | **MERN Stack Development** Certified |
-| 📊 | **Data Analytics using Power BI** |
-| 🎨 | **UI/UX Design & Colour Theory** |
-| 🔒 | **Privacy & Security in Social Media** |
-| 🏅 | **20+ Total Certificates** across tech & competitive events |
+| | Recognition |
+|:-:|:--|
+| 🏆 | **Ideathon 2025 — Runner-Up** · College-wide award for *AnaMetrix* |
+| 🤖 | **Generative AI with Large Language Models** · DeepLearning.AI & AWS (Coursera) |
+| 🥇 | **Code Debugging — 1st Prize** · Hindusthan inter-college event |
+| 🏏 | **Code Premiere League — 1st Prize** · Department-level event |
+| 💎 | **LeetCode 100-Day Consistency Badge** · 300+ problems across DSA |
+| 🥈 | **LeetCode 50-Day Badges** · 2025 and 2026 |
+| ⚡ | **Mini Hackathon 2025** · Hostel Leave Management System |
+| 🧑‍💻 | **Implant Training** · Zen1 Tech Park, Coimbatore |
+| 🎖️ | **20+ certificates** across tech and competitive events |
 
 </div>
 
----
+<br/>
 
-## 📈 LeetCode Progress
+## ✦ &nbsp;GitHub Pulse
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=abubackar-siddiq-s&show_icons=true&hide_border=true&bg_color=04040a&title_color=7850ff&icon_color=00e5c8&text_color=c9d1d9&ring_color=7850ff&count_private=true&rank_icon=github" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubackar-siddiq-s&layout=compact&hide_border=true&bg_color=04040a&title_color=7850ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=abubackar-siddiq-s&hide_border=true&background=04040a&ring=7850ff&fire=00e5c8&currStreakLabel=00e5c8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abubackar-siddiq-s&bg_color=04040a&color=c9d1d9&line=7850ff&point=00e5c8&area=true&area_color=7850ff&hide_border=true" alt="Contribution Graph" />
+
+</div>
+
+<br/>
+
+## ✦ &nbsp;LeetCode
 
 <div align="center">
 
@@ -126,21 +211,23 @@ const abubackar = {
 
 </div>
 
----
+<br/>
 
-## 🌐 Connect With Me
+## ✦ &nbsp;Let's Build Something Great
 
 <div align="center">
 
+I'm open to **internships, collaborations and interesting conversations**.<br/>
+Whether you have a project in mind or just want to say hi, my inbox is open.
+
 [![Email](https://img.shields.io/badge/abubackar.siddiq.stn@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abubackar.siddiq.stn@gmail.com)
-[![Phone](https://img.shields.io/badge/82706_53354-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:8270653354)
+[![Phone](https://img.shields.io/badge/+91_82706_53354-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918270653354)
 [![Location](https://img.shields.io/badge/Erode,_Tamil_Nadu-FF4F8B?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Erode,Tamil+Nadu)
 
 <br/>
 
-> 💬 *Open to internships, collaborations, and interesting conversations.*  
-> *Whether you have a project in mind or just want to say hi — my inbox is open.*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7850ff,100:00e5c8&height=120&section=footer" alt="footer" />
+
+<sub>Engineered with precision and purpose · © 2026 Abubackar Siddiq</sub>
 
 </div>
-
----
