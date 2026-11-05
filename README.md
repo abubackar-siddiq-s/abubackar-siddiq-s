@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7850ff,100:00e5c8&height=230&section=header&text=Abubackar%20Siddiq&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Generative%20AI%20%26%20Agentic%20AI%20Developer&descSize=20&descAlignY=60&descColor=ffffff&animation=fadeIn" alt="Abubackar Siddiq" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7850ff,100:00e5c8&height=230&section=header&text=Abubackar%20Siddiq&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Generative%20AI%20%C2%B7%20Agentic%20AI%20Developer&descSize=20&descAlignY=60&descColor=ffffff&animation=fadeIn" alt="Abubackar Siddiq" />
 
 <a href="https://abubackar.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=1000&color=7850FF&center=true&vCenter=true&width=720&height=40&lines=Building+scalable+MERN+products;Shipping+RAG+%26+AI+Agent+systems;Designing+reliable+backends+%E2%80%94+300%2B+LeetCode+solved;Engineering+meets+art+%E2%80%94+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=1000&color=7850FF&center=true&vCenter=true&width=720&height=40&lines=Building+scalable+MERN+products;Shipping+RAG+and+AI+Agent+systems;Designing+reliable+backends+%E2%80%94+300%2B+LeetCode+solved;Engineering+meets+art+%E2%80%94+one+commit+at+a+time" alt="Typing SVG" />
 </a>
 
 <br/>
