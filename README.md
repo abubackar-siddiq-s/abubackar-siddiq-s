@@ -188,21 +188,6 @@ Citizens report issues with **geotagged photos**; authorities track, prioritise 
 
 <br/>
 
-## ✦ &nbsp;GitHub Pulse
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abubackar-siddiq-s&show_icons=true&hide_border=true&bg_color=04040a&title_color=7850ff&icon_color=00e5c8&text_color=c9d1d9&ring_color=7850ff&count_private=true&rank_icon=github" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abubackar-siddiq-s&layout=compact&hide_border=true&bg_color=04040a&title_color=7850ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=abubackar-siddiq-s&hide_border=true&background=04040a&ring=7850ff&fire=00e5c8&currStreakLabel=00e5c8&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abubackar-siddiq-s&bg_color=04040a&color=c9d1d9&line=7850ff&point=00e5c8&area=true&area_color=7850ff&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
-<br/>
-
 ## ✦ &nbsp;LeetCode
 
 <div align="center">
